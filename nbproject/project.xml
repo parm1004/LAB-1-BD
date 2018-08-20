@@ -5,6 +5,7 @@
         <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
             <name>LAB 1 BD</name>
             <source-roots>
+                <root id="src.Iconos.dir"/>
                 <root id="src.dir"/>
             </source-roots>
             <test-roots>
