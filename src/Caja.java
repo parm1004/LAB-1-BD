@@ -65,7 +65,8 @@ public class Caja extends javax.swing.JPanel {
 
         jScrollPane2.setViewportView(jTextPane2);
 
-        jButton1.setBackground(new java.awt.Color(102, 204, 255));
+        jButton1.setBackground(new java.awt.Color(0, 85, 170));
+        jButton1.setForeground(new java.awt.Color(255, 255, 255));
         jButton1.setText("INGRESAR");
         jButton1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -94,6 +95,8 @@ public class Caja extends javax.swing.JPanel {
 
         jScrollPane5.setViewportView(jTextPane4);
 
+        jButton2.setBackground(new java.awt.Color(0, 85, 170));
+        jButton2.setForeground(new java.awt.Color(255, 255, 255));
         jButton2.setText("FACTURAR");
         jButton2.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -101,7 +104,8 @@ public class Caja extends javax.swing.JPanel {
             }
         });
 
-        jButton3.setForeground(new java.awt.Color(255, 51, 51));
+        jButton3.setBackground(new java.awt.Color(255, 102, 102));
+        jButton3.setForeground(new java.awt.Color(255, 255, 255));
         jButton3.setText("SALIR");
         jButton3.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
